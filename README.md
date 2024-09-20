@@ -6,7 +6,7 @@ Welcome to the Playerbots Module for AzerothCore, a work in progress project bas
 
 If you encounter any errors or experience crashes, we kindly request that you report them as GitHub issues. Your valuable feedback will help us improve and enhance this project collaboratively.
 
-You can also get more information in our [discord](https://discord.gg/NQm5QShwf9).
+You can also get more information in our https://discord.com/invite/NeapDEkHuv
 
 ## Installation
 
